@@ -1,0 +1,19 @@
+pilvio = {
+  api_key = ""
+  billing_account_id = ""
+}
+
+aws = {
+  access_key = ""
+  secret_key = ""
+}
+
+vm = {
+  username = ""
+  password = ""
+}
+
+domain = {
+  hosted_zone = "starlingscripts.com"
+  subdomain = "nextcloud.starlingscripts.com"
+}
